@@ -1,0 +1,12 @@
+.footerUl{
+    list-style: none;
+    font-size: 1.3vw;
+}
+.footer{
+    background-color: #dcdaff;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    width: 57vw;
+    margin: auto;
+}

@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Rokkitt:wght@200&display=swap');
+    
+.logo{
+    font-size: 3em;
+    color: black;
+    width: 7vw;
+    margin: 0;
+    margin-left: 1vw;
+    font-family: 'Rokkitt', serif;
+}
+.navUl{
+    width: 30vw;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style:none;
+    color: black;
+    margin:0;
+    
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    width: 99vw;
+    margin-top: 2vh;
+}
+h1{
+    margin: auto;
+    margin-right: 1vw;
+}
